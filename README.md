@@ -10,6 +10,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 ## Introduction
 
 This course explicitly explained the basics of machine learning, data mining, and statistical pattern recognition. 
+
 Topics include: 
 
 1. **Supervised Learning:** Linear Regression, Logistic Regression, Support Vector Machines (SVM), Kernels, Neural networks.
@@ -19,4 +20,9 @@ Topics include:
 3. **Best Practices in Machine Learning:** Bias/Variance theory; Innovation Process in Machine Learning and AI. 
 
 ## References
+
 [[1] Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
+
+## Certification
+
+![Certificate](https://github.com/DaudLateef/Machine-Learning/blob/main/Screenshot%202021-11-09%20at%2016.06.25.png)
